@@ -1,7 +1,7 @@
 # Flutter Money Transfer App UI. 
 
 Flutter Money Transfer App UI. 
-This is a simple flutter application where I have Money Transfer App UI.
+This is a simple flutter application where I have Designed Money Transfer App UI.
 Created by [Joan Louji](https://joanlouji.web.app/)
 
 ## Installation
